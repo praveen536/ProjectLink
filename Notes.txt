@@ -4,4 +4,4 @@ https://product-order1.herokuapp.com/
 https://ts-management1.herokuapp.com/
 https://realtime-chatapp1.herokuapp.com/
 https://pizza-order1.herokuapp.com/
-https://sports-fit.herokuapp.com/
+https://sportsfit.herokuapp.com/
